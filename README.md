@@ -1,9 +1,9 @@
-# EXPERIMENT--01-ALP-FOR-8086
+![and](https://github.com/user-attachments/assets/7ef42e86-e5d0-4c18-a273-817f7a8f7565)# EXPERIMENT--01-ALP-FOR-8086
 Name : Samkakash R S
 
 Roll no : 212223230182
 
-Date of experiment : 
+Date of experiment : 13/08/2024
 
 
 
@@ -124,6 +124,47 @@ HLT
 
 ## Output  
 ![Screenshot 2024-08-20 082451](https://github.com/user-attachments/assets/7a4db99c-dd3a-44b8-b0a2-7472daefc9a2)
+
+## And of 8 bit numbers ALP
+```
+MOV AL,33H
+MOV BL,44H
+AND AL,BL
+HLT
+```
+
+## Output
+![and](https://github.com/user-attachments/assets/fa327a88-21ae-4d95-9d7f-dddea01e2389)
+
+## OR of 8 bit numbers ALP
+```
+MOV AL,45H
+MOV BL,66H
+OR AL,BL
+HLT
+```
+# Output
+![or](https://github.com/user-attachments/assets/2355ffbb-df04-453b-9a5c-16b40622dc11)
+
+## NOT of 8 bit number ALP
+```
+MOV AL,65H
+NOT AL
+HLT
+```
+
+## Output
+![not](https://github.com/user-attachments/assets/033a8b33-7f19-4d70-a521-c868ab338510)
+
+## XOR of 8 bit number ALP
+```
+MOV AL,66H
+MOV BL,77H
+XOR AL,BL
+HLT
+```
+## Output
+![xor](https://github.com/user-attachments/assets/0fb02e43-a689-41f6-a409-846920665d62)
 
 
 ## Result :
