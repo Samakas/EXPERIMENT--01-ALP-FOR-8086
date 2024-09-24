@@ -1,4 +1,4 @@
-![and](https://github.com/user-attachments/assets/7ef42e86-e5d0-4c18-a273-817f7a8f7565)# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT 01 ALP FOR 8086
 Name : Samkakash R S
 
 Roll no : 212223230182
